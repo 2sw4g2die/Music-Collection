@@ -41,6 +41,4 @@ The program should consist of three classes, with these names and instance varia
 • SongCollection.java – stores all albums in the system.
   o albums – arrays of Album objects with size 4.
                                              
-All the data components of your classes need to be private (this means that you are applying the principles of encapsulation). Additionally, your classes need to have methods that provide the functionality outlined in the problem
-description. The only class which should have a main method is SongCollection.java, which should create an instance of the class SongCollection and call the run() method which will have code to provide the user with a menu
-to allow them to perform any of the tasks outlined in the problem description. The class SongCollection also will be the only one that will receive inputs and show outputs.
+All the data components of your classes need to be private (this means that you are applying the principles of encapsulation). Additionally, your classes need to have methods that provide the functionality outlined in the problem description. The only class which should have a main method is SongCollection.java, which should create an instance of the class SongCollection and call the run() method which will have code to provide the user with a menu to allow them to perform any of the tasks outlined in the problem description. The class SongCollection also will be the only one that will receive inputs and show outputs.
