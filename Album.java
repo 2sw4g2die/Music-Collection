@@ -1,4 +1,3 @@
-
 /**
  * accesses and modifies data for song objects. checks for invalid inputs.
  * returns song data and validity of inputs to songCollection. holds album data.
